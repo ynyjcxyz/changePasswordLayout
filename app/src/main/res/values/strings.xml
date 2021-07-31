@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChangePassword</string>
+    <string name="note">Password can be used to sign in your account with your email in a new device,lock your account if you forget your app password and unlock your folder if you forget the key</string>
+    <string name="confirmed_password">Confirmed password</string>
+    <string name="change_password">Change Password</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="old_password">Old password</string>
+    <string name="new_password">New password</string>
+</resources>
